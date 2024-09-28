@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/Bebas Neue Bold.woff") format("woff"), url("fonts/Bebas Neue Bold.eot") format("embedded-opentype"), url("fonts/Bebas Neue Bold.ttf") format("truetype"), url("fonts/Bebas Neue Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Aukim Condensed";
+   src: url("fonts/AukimCondensed.woff") format("woff"), url("fonts/AukimCondensed.eot") format("embedded-opentype"), url("fonts/AukimCondensed.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
